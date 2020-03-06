@@ -14,9 +14,9 @@ int getMax(int a, int b, int c){
 
 int main()
 {
-    /* Test for task 1 */
-    float a = getAverage(1,2,3);
-    printf("The average is: %f\n", a);
+   /* Test for task 2 */
+    int max = getMax(1,2,3);
+    printf("The max number is: %d\n", max);
         
     return 0;
 }
